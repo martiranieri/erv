@@ -3,6 +3,8 @@ En el curso se ven las etapas del proceso de reconocimiento en nivel medio: extr
 
 ## Laboratorios
 - [Laboratorio 1: SIFT](./laboratorios/1-SIFT/)
+- [Laboratorio 2: Algoritmo Bag of Words](./laboratorios/2-Bag-of-Words/)
+  - [Descargar Dataset](https://drive.google.com/drive/folders/1TivSa9neqUMrZm5HVNQ4dBYGdG6HMdi5?usp=drive_link)
 - 
 ## Tareas
 - [Tarea 1: HOG](./tareas/1-HOG/)
